@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Omkar Ghotne</h1>
-<h3 align="center">A passionate Frontend Developer ⌨️</h3>
+<h3 align="center">A passionate  Developer ⌨️</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/_373oTlRav_oEW2qE8MmC0_CmzRv99of_QNGeH4yzLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f0restron07&label=Profile%20views&color=0e75b6&style=flat" alt="f0restron07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omkarghotn38992" target="blank"><img src="https://img.shields.io/twitter/follow/omkarghotn38992?logo=twitter&style=for-the-badge" alt="omkarghotn38992" /></a> </p>
 
-- 🔭 I’m currently Working on **Android Development👨‍💻**
+- 🔭 I’m currently Working on **BlockChain development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
