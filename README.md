@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omkar Ghotne</h1>
 <h3 align="center">Software Developer | Java • DSA • Backend</h3>
 
-<img align="right" alt="coding" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="coding"
+  width="260"
+  style="max-width: 100%; height: auto; float: right; margin-left: 20px;"
+/>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=f0restron07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
