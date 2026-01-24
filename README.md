@@ -1,101 +1,111 @@
-<h1 align="center">Hi 👋, I'm Omkar Ghotne</h1>
-<h3 align="center">Software Developer | Java • DSA • Backend</h3>
+# Hi, I'm [Your Name] 👋
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="coding"
-  width="260"
-  style="max-width: 100%; height: auto; float: right; margin-left: 20px;"
-/>
+**Competitive Programmer | Java Backend Engineer | Problem Solver**
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=f0restron07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+I build scalable backend systems and solve algorithmic challenges daily. Fueled by Codeforces contests and clean code.
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎯 Focused on **DSA, Problem Solving, and Core Computer Science**
-- 💻 Strong in **Java** with hands-on practice in **Linked Lists, Arrays, Recursion, Bit Manipulation**
-- 🧠 Practicing **LeetCode & Codeforces** consistently
-- 🌱 Currently learning **Backend Development (Java + Spring Boot)**
-- 🤝 Open to **Open Source contributions (beginner-friendly)**
+I'm a Computer Science graduate passionate about **competitive programming** and **backend engineering**. My primary love is **Codeforces**, where I regularly participate in contests and sharpen my problem-solving skills. I believe in consistent practice, logical thinking, and writing optimized solutions. Beyond algorithms, I design and build backend systems using **Java** and **Spring Boot**, focusing on scalability, clean architecture, and efficient data handling.
 
 ---
 
-### 🧠 What I’m Currently Working On
+## 🏆 Competitive Programming
 
-- 📌 Daily **LeetCode Medium problems**
-- 📌 Strengthening **DSA fundamentals**
-- 📌 Building **clean backend projects in Java**
-- 📌 Preparing for **product-based company interviews**
+I'm deeply involved in the competitive programming community, solving problems across multiple platforms:
+
+- **Codeforces** ⭐ — My primary platform. Regular contest participation and focused rating improvement.
+- **LeetCode** — Daily problem-solving for DSA mastery.
+- **CodeChef** — Long and short contests.
+- **StatCoder** — Exploring diverse problem sets.
+
+I work across the full spectrum of DSA: arrays, strings, trees, graphs, dynamic programming, segment trees, and beyond. My goal is to write clean, optimized solutions that scale with complexity.
+
+### 📊 Coding Profiles
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-- Java
-- JavaScript
-- C / C++
 
-**Core CS**
-- Data Structures & Algorithms
-- OOP
-- Time & Space Complexity
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Web**
-- Spring Boot (learning)
-- Node.js (basics)
-- REST APIs
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Databases**
-- MySQL
-- PostgreSQL
 
-**Frontend (Basics)**
-- HTML
-- CSS
-- React
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Tools**
 
-### 🔗 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/omkargho78" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/omkarghotne01" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-</a>
-<a href="https://linkedin.com/in/omkar-ghotne" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+
+### 🔹 E-Commerce Backend API
+Scalable REST API built with Spring Boot for an e-commerce platform. Implements JWT authentication, role-based access control, order management, and payment integration. Clean architecture with service layers and JPA repositories.
+
+**Tech:** Spring Boot, MySQL, JPA/Hibernate, REST
+
+### 🔹 Task Management System
+Backend service for task and project management with user authentication, task assignment, deadlines, and status tracking. Designed for team collaboration with RESTful endpoints and optimized queries.
+
+**Tech:** Spring Boot, MySQL, Spring Security
+
+### 🔹 Algorithmic Solutions Repository
+Organized collection of 500+ solved problems from Codeforces, LeetCode, and CodeChef. Each solution is optimized, documented, and categorized by topic (graphs, DP, greedy, etc.). Focus on time and space complexity analysis.
+
+**Tech:** Java, Data Structures & Algorithms
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0restron07&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0restron07" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
 
-### 📫 Contact
+## 🎯 Currently Focusing On
 
-- 📧 Email: **omkarghotne100@gmail.com**
-- 💼 LinkedIn: **Omkar Ghotne**
+- 🏅 Improving **Codeforces rating** — targeting Expert
+- 📚 Mastering advanced **DSA topics** (segment trees, FFT, flows)
+- 🔧 Building **scalable microservices** with Spring Boot
+- 🧠 Deep diving into **system design** and distributed systems
 
 ---
 
-⚡ *Consistency beats motivation. Building daily.*
+## 🌐 Connect With Me
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+---
+
+<p align="center">
+  <i>"Solve problems. Build systems. Stay consistent."</i>
+</p>
