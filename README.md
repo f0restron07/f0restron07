@@ -93,7 +93,7 @@
 
 ```java
 public class Achievements {
-    static final int    PROBLEMS_SOLVED     = 500;      // and counting
+    static final int    PROBLEMS_SOLVED     = 1398;      // and counting
     static final int    CF_MAX_RATING       = 1795;     // Expert
     static final int    LC_MAX_RATING       = 1923;     // Knight
     static final String CC_RANK             = "5★";     // CodeChef
