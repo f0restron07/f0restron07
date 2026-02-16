@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░  OMKAR GHOTNE — Competitive Programmer & Backend Engineer            ░░░ -->
-<!-- ░░░  github.com/F0restron                                                ░░░ -->
+<!-- ░░░  github.com/F0restron07                                              ░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- CUSTOM SVG BANNER — Glitch style -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=OMKAR%20GHOTNE&width=840&height=200)](https://github.com/F0restron)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=OMKAR%20GHOTNE&width=840&height=200)](https://github.com/F0restron07)
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -16,9 +16,9 @@
 <br/>
 
 <!-- QUICK COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=F0restron&style=for-the-badge&color=0d1117&labelColor=0d1117&label=VIEWS" height="25" />
+<img src="https://komarev.com/ghpvc/?username=F0restron07&style=for-the-badge&color=0d1117&labelColor=0d1117&label=VIEWS" height="25" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/F0restron?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=ffffff" height="25" />
+<img src="https://img.shields.io/github/followers/F0restron07?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=ffffff" height="25" />
 
 </div>
 
@@ -153,26 +153,27 @@ public class Achievements {
 
 <div align="center">
 
-<!-- GitHub Stats — using github-readme-stats with cache busting -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</picture>
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=F0restron&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=F0restron&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak Stats" />
-</picture>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</picture>
+<!-- Streak Stats — demolab (reliable) -->
+<img src="https://streak-stats.demolab.com?user=F0restron07&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" width="60%" alt="Streak Stats" />
 
 </div>
+
+<!--
+  💡 WANT GITHUB STATS & TOP LANGUAGES CARDS?
+
+  The default vercel instance is rate-limited. Deploy your own (free, 2 min):
+
+  1. Fork: https://github.com/anuraghazra/github-readme-stats
+  2. Go to vercel.com → Import your fork
+  3. Add env variable: PAT_1 = your GitHub personal access token
+  4. Deploy → you get YOUR_APP.vercel.app
+
+  Then add these below the streak stats:
+
+  <img width="49%" src="https://YOUR_APP.vercel.app/api?username=F0restron07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7" />
+
+  <img width="38%" src="https://YOUR_APP.vercel.app/api/top-langs/?username=F0restron07&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9" />
+-->
 
 <br/>
 
@@ -205,24 +206,24 @@ public class Achievements {
 <tr>
 <td width="50%">
 
-### ⚡ [GuardianAI](https://github.com/F0restron/GuardianAI)
+### ⚡ [GuardianAI](https://github.com/F0restron07/GuardianAI)
 
 AI-powered healthcare emergency detection system. Real-time health monitoring with intelligent alerts designed to detect critical situations and notify emergency contacts instantly.
 
 `Electron` `React` `Gemini API` `Real-Time` `Healthcare`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron/GuardianAI)
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron07/GuardianAI)
 
 </td>
 <td width="50%">
 
-### ⚡ [Algorithmic Solutions](https://github.com/F0restron/DSA-Solutions)
+### ⚡ [Algorithmic Solutions](https://github.com/F0restron07/DSA-Solutions)
 
 **500+** categorized DSA solutions in Java. Graphs, DP, Segment Trees, Binary Search — clean, optimized implementations with complexity analysis.
 
 `Java` `DSA` `Competitive Programming` `Algorithms`
 
-[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron/DSA-Solutions)
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron07/DSA-Solutions)
 
 </td>
 </tr>
@@ -236,19 +237,19 @@ AI-powered healthcare emergency detection system. Real-time health monitoring wi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F0restron&theme=react-dark&hide_border=true&bg_color=0d1117&color=a9fef7&line=a9fef7&point=ffffff&area=true&area_color=a9fef7" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F0restron07&theme=react-dark&hide_border=true&bg_color=0d1117&color=a9fef7&line=a9fef7&point=ffffff&area=true&area_color=a9fef7" width="98%" />
 
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION — requires GitHub Action setup (see hidden comment below) -->
+<!-- SNAKE ANIMATION — requires GitHub Action setup -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F0restron/F0restron/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F0restron/F0restron/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/F0restron/F0restron/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F0restron07/F0restron07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F0restron07/F0restron07/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/F0restron07/F0restron07/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -256,9 +257,7 @@ AI-powered healthcare emergency detection system. Real-time health monitoring wi
 <!--
   🐍 SNAKE ANIMATION SETUP
 
-  To enable the snake eating your contribution graph:
-
-  1. Go to your profile repo: github.com/F0restron/F0restron
+  1. Go to your profile repo: github.com/F0restron07/F0restron07
   2. Create file: .github/workflows/snake.yml
   3. Paste this workflow:
 
@@ -286,8 +285,8 @@ AI-powered healthcare emergency detection system. Real-time health monitoring wi
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  4. Go to Actions tab → Run the workflow manually once
-  5. After that, it auto-runs every 12 hours
+  4. Actions tab → Run workflow manually once
+  5. Auto-runs every 12 hours after that
 -->
 
 <br/>
