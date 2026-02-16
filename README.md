@@ -1,8 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ░░░  OMKAR GHOTNE — Competitive Programmer & Backend Engineer            ░░░ -->
 <!-- ░░░  github.com/F0restron                                                ░░░ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,9 +8,9 @@
 <!-- CUSTOM SVG BANNER — Glitch style -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=OMKAR%20GHOTNE&width=840&height=200)](https://github.com/F0restron)
 
-<!-- ANIMATED TYPING — JetBrains Mono, terminal style -->
+<!-- ANIMATED TYPING — shorter lines to prevent cutoff -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=2000&color=A9FEF7&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%3E+competitive+programmer+%7C+backend+engineer+%7C+problem+solver;%3E+graphs+%E2%80%A2+dp+%E2%80%A2+segment+trees+%E2%80%A2+java+%E2%80%A2+spring+boot;%3E+500%2B+problems+%7C+codeforces+expert+%7C+building+at+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=2000&color=A9FEF7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%24+competitive+programmer+%7C+backend+engineer+%7C+problem+solver;%24+codeforces+expert+%7C+leetcode+knight+%7C+500%2B+problems;%24+graphs+%E2%80%A2+dp+%E2%80%A2+segment+trees+%E2%80%A2+java+%E2%80%A2+spring+boot" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,18 +27,18 @@
 <!-- ──────────────────────────────────────────────────────────────────────── -->
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║     $ whoami                                                         ║
-║     → Omkar Ghotne                                                   ║
-║                                                                      ║
-║     $ cat /etc/focus                                                 ║
-║     → Competitive Programming | Java Backend | Distributed Systems   ║
-║                                                                      ║
-║     $ uptime                                                         ║
-║     → 500+ problems solved, daily competitive programming grind      ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║   $ whoami                                                  ║
+║   → Omkar Ghotne                                            ║
+║                                                             ║
+║   $ cat /etc/focus                                          ║
+║   → Competitive Programming | Java Backend                  ║
+║                                                             ║
+║   $ uptime                                                  ║
+║   → 500+ problems | daily CP grind | building at scale      ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -52,19 +50,19 @@
 <div align="center">
 
 <a href="https://codeforces.com/profile/F0restron">
-  <img src="https://img.shields.io/badge/CODEFORCES-Expert_1600+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODEFORCES-Expert_1795-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/F0restron">
-  <img src="https://img.shields.io/badge/LEETCODE-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEETCODE-Knight_1923-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/F0restron">
-  <img src="https://img.shields.io/badge/CODECHEF-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODECHEF-5★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://atcoder.jp/users/F0restron">
-  <img src="https://img.shields.io/badge/ATCODER-Active-222222?style=for-the-badge&logo=atcoder&logoColor=white" />
+  <img src="https://img.shields.io/badge/ATCODER-1729-222222?style=for-the-badge&logo=atcoder&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/F0restron">
@@ -77,13 +75,13 @@
 
 <div align="center">
   
-| Platform | Handle | Rating | Focus |
-|:---------|:-------|:-------|:------|
-| **Codeforces** | `F0restron` | `Expert` | Rated Contests, Div 2/3 |
-| **LeetCode** | `F0restron` | `Active` | Interview Prep, Contests |
-| **CodeChef** | `F0restron` | `Active` | Long Challenges |
-| **AtCoder** | `F0restron` | `Active` | Beginner/Regular Contests |
-| **GeeksforGeeks** | `F0restron` | `Active` | Practice, Articles |
+| Platform | Handle | Max Rating | Rank |
+|:---------|:-------|:-----------|:-----|
+| **Codeforces** | `F0restron` | `1795` | **Expert** |
+| **LeetCode** | `F0restron` | `1923` | **Knight** |
+| **CodeChef** | `F0restron` | `5★` | **5 Star** |
+| **AtCoder** | `F0restron` | `1729` | **Active** |
+| **GeeksforGeeks** | `F0restron` | — | **Active** |
 
 </div>
 
@@ -95,15 +93,18 @@
 
 ```java
 public class Achievements {
-    static final int    PROBLEMS_SOLVED   = 500;       // and counting
-    static final String CF_RATING         = "Expert";  // 1600+
-    static final String PRIMARY_WEAPON    = "Java";
-    static final String[] FOCUS_AREAS     = {
+    static final int    PROBLEMS_SOLVED     = 500;      // and counting
+    static final int    CF_MAX_RATING       = 1795;     // Expert
+    static final int    LC_MAX_RATING       = 1923;     // Knight
+    static final String CC_RANK             = "5★";     // CodeChef
+    static final int    AC_RATING           = 1729;     // AtCoder
+    static final String PRIMARY_WEAPON      = "Java";
+    static final String[] FOCUS_AREAS       = {
         "Graphs", "Dynamic Programming",
         "Segment Trees", "Advanced Algorithms"
     };
-    static final String CAREER_TARGET     = "Product-Based Companies";
-    static final boolean DAILY_CP         = true;      // non-negotiable
+    static final String CAREER_TARGET       = "Product-Based Companies";
+    static final boolean DAILY_CP           = true;     // non-negotiable
 }
 ```
 
@@ -177,18 +178,18 @@ public class Achievements {
 ## `🧠 problem_solving_focus`
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   GRAPHS & BFS/DFS          ██████████████████████░░  92%       │
-│   DYNAMIC PROGRAMMING       █████████████████████░░░  88%       │
-│   SEGMENT TREES             ████████████████████░░░░  82%       │
-│   BINARY SEARCH / OPT       ██████████████████████░░  90%       │
-│   NUMBER THEORY             █████████████████░░░░░░░  72%       │
-│   GREEDY ALGORITHMS         ████████████████████░░░░  85%       │
-│   SYSTEM DESIGN             ██████████████░░░░░░░░░░  60%       │
-│   CLEAN ARCHITECTURE        ██████████████████████░░  90%       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  GRAPHS & BFS/DFS       ████████████████████░░  92%  │
+│  DYNAMIC PROGRAMMING    ███████████████████░░░  88%  │
+│  SEGMENT TREES          ██████████████████░░░░  82%  │
+│  BINARY SEARCH / OPT    ████████████████████░░  90%  │
+│  NUMBER THEORY          █████████████████░░░░░  72%  │
+│  GREEDY ALGORITHMS      ███████████████████░░░  85%  │
+│  SYSTEM DESIGN          ██████████████░░░░░░░░  60%  │
+│  CLEAN ARCHITECTURE     ████████████████████░░  90%  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -330,9 +331,9 @@ AI-powered healthcare emergency detection system. Real-time health monitoring wi
 <div align="center">
 
 ```
-───────────────────────────────────────────────────
- "Talk is cheap. Show me the code." — Linus Torvalds
-───────────────────────────────────────────────────
+───────────────────────────────────────────────────────
+  "Talk is cheap. Show me the code." — Linus Torvalds
+───────────────────────────────────────────────────────
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a9fef7&height=100&section=footer" width="100%" />
