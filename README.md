@@ -8,7 +8,7 @@
 <!-- CUSTOM SVG BANNER — Glitch style -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=OMKAR%20GHOTNE&width=840&height=200)](https://github.com/F0restron)
 
-<!-- ANIMATED TYPING — shorter lines to prevent cutoff -->
+<!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=2000&color=A9FEF7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%24+competitive+programmer+%7C+backend+engineer+%7C+problem+solver;%24+codeforces+expert+%7C+leetcode+knight+%7C+500%2B+problems;%24+graphs+%E2%80%A2+dp+%E2%80%A2+segment+trees+%E2%80%A2+java+%E2%80%A2+spring+boot" alt="Typing SVG" />
 </a>
@@ -93,7 +93,7 @@
 
 ```java
 public class Achievements {
-    static final int    PROBLEMS_SOLVED     = 1398;      // and counting
+    static final int    PROBLEMS_SOLVED     = 500;      // and counting
     static final int    CF_MAX_RATING       = 1795;     // Expert
     static final int    LC_MAX_RATING       = 1923;     // Knight
     static final String CC_RANK             = "5★";     // CodeChef
@@ -153,21 +153,24 @@ public class Achievements {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=F0restron&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<!-- GitHub Stats — using github-readme-stats with cache busting -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9&ring_color=a9fef7&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</picture>
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=F0restron&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=F0restron&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak Stats" />
+</picture>
 
 <br/><br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=F0restron&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" />
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -198,37 +201,28 @@ public class Achievements {
 
 ## `🛠 featured_projects`
 
-<div align="center">
-
-<a href="https://github.com/F0restron/GuardianAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=F0restron&repo=GuardianAI&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/F0restron/DSA-Solutions">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=F0restron&repo=DSA-Solutions&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%">
 
-### ⚡ GuardianAI
+### ⚡ [GuardianAI](https://github.com/F0restron/GuardianAI)
 
 AI-powered healthcare emergency detection system. Real-time health monitoring with intelligent alerts designed to detect critical situations and notify emergency contacts instantly.
 
 `Electron` `React` `Gemini API` `Real-Time` `Healthcare`
 
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron/GuardianAI)
+
 </td>
 <td width="50%">
 
-### ⚡ Algorithmic Solutions
+### ⚡ [Algorithmic Solutions](https://github.com/F0restron/DSA-Solutions)
 
-**500+** categorized DSA solutions in Java. Graphs, DP, Segment Trees, Binary Search — clean, optimized implementations with complexity analysis. A living reference for competitive programmers.
+**500+** categorized DSA solutions in Java. Graphs, DP, Segment Trees, Binary Search — clean, optimized implementations with complexity analysis.
 
 `Java` `DSA` `Competitive Programming` `Algorithms`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/F0restron/DSA-Solutions)
 
 </td>
 </tr>
@@ -260,42 +254,40 @@ AI-powered healthcare emergency detection system. Real-time health monitoring wi
 </div>
 
 <!--
-  ╔═══════════════════════════════════════════════════════════════════════╗
-  ║ 🐍 SNAKE ANIMATION SETUP                                           ║
-  ║                                                                      ║
-  ║ To enable the snake eating your contribution graph:                  ║
-  ║                                                                      ║
-  ║ 1. Go to your profile repo: github.com/F0restron/F0restron          ║
-  ║ 2. Create file: .github/workflows/snake.yml                         ║
-  ║ 3. Paste this workflow:                                              ║
-  ║                                                                      ║
-  ║   name: Generate Snake                                               ║
-  ║   on:                                                                ║
-  ║     schedule:                                                        ║
-  ║       - cron: "0 */12 * * *"                                        ║
-  ║     workflow_dispatch:                                               ║
-  ║   jobs:                                                              ║
-  ║     build:                                                           ║
-  ║       runs-on: ubuntu-latest                                         ║
-  ║       steps:                                                         ║
-  ║         - uses: Platane/snk/svg-only@v3                             ║
-  ║           with:                                                      ║
-  ║             github_user_name: ${{ github.repository_owner }}         ║
-  ║             outputs: |                                               ║
-  ║               dist/github-contribution-grid-snake.svg                ║
-  ║               dist/github-contribution-grid-snake-dark.svg?palette=github-dark ║
-  ║           env:                                                       ║
-  ║             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                ║
-  ║         - uses: crazy-max/ghaction-github-pages@v4                  ║
-  ║           with:                                                      ║
-  ║             target_branch: output                                    ║
-  ║             build_dir: dist                                          ║
-  ║           env:                                                       ║
-  ║             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                ║
-  ║                                                                      ║
-  ║ 4. Go to Actions tab → Run the workflow manually once               ║
-  ║ 5. After that, it auto-runs every 12 hours                          ║
-  ╚═══════════════════════════════════════════════════════════════════════╝
+  🐍 SNAKE ANIMATION SETUP
+
+  To enable the snake eating your contribution graph:
+
+  1. Go to your profile repo: github.com/F0restron/F0restron
+  2. Create file: .github/workflows/snake.yml
+  3. Paste this workflow:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  4. Go to Actions tab → Run the workflow manually once
+  5. After that, it auto-runs every 12 hours
 -->
 
 <br/>
