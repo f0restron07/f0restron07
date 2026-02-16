@@ -1,146 +1,215 @@
-<h1 align="center">Hi 👋, I'm Omkar Ghotne</h1>
-<h3 align="center">Competitive Programmer | Java Backend Engineer | Problem Solver</h3>
+<div align="center">
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="coding"
-  width="260"
-  style="max-width: 100%; height: auto; float: right; margin-left: 20px;"
-/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Omkar%20Ghotne&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Java%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=f0restron07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- ANIMATED TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Solving+problems+one+algorithm+at+a+time;Graphs+%E2%80%A2+DP+%E2%80%A2+Segment+Trees+%E2%80%A2+Advanced+Algorithms;Building+scalable+backend+systems+in+Java;500%2B+problems+solved+and+counting..." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- QUICK BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=F0restron&color=1f6feb&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/F0restron?style=flat-square&color=238636&labelColor=0d1117&label=Followers)](https://github.com/F0restron)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/F0restron?style=flat-square&color=e3b341&labelColor=0d1117&label=Stars)](https://github.com/F0restron)
+
+<br/>
+
+<!-- GITHUB STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=F0restron&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681" width="49%" />
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+<br/>
 
-I'm a **Computer Science graduate** passionate about **competitive programming** and **backend engineering**. My primary love is **Codeforces**, where I regularly participate in contests and sharpen my problem-solving skills. I believe in consistent practice, logical thinking, and writing optimized solutions. Beyond algorithms, I design and build backend systems using **Java** and **Spring Boot**, focusing on scalability, clean architecture, and efficient data handling.
+## 🚀 &nbsp;Competitive Programming
 
-- 🏆 Regular **Codeforces** contestant — focused on rating improvement
-- 💻 Strong foundation in **DSA** — arrays, trees, graphs, DP, greedy, bit manipulation
-- ☕ Primary language: **Java** — clean, optimized solutions
-- 🔧 Backend developer with **Spring Boot, REST APIs, JPA/Hibernate**
-- 🎯 Career-driven, disciplined, long-term thinker
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="200">
+  <a href="https://codeforces.com/profile/F0restron">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117&color=1F8ACB" /><br/>
+    <sub><b>Primary Platform</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://leetcode.com/F0restron">
+    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" /><br/>
+    <sub><b>Interview Prep</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://www.codechef.com/users/F0restron">
+    <img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" /><br/>
+    <sub><b>Contests</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://atcoder.jp/users/F0restron">
+    <img src="https://img.shields.io/badge/AtCoder-Active-222222?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=0d1117" /><br/>
+    <sub><b>Contests</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://www.geeksforgeeks.org/user/F0restron">
+    <img src="https://img.shields.io/badge/GFG-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" /><br/>
+    <sub><b>Practice</b></sub>
+  </a>
+</td>
+</tr>
+</table>
 
-### 🏆 Competitive Programming
+</div>
 
-I'm deeply involved in the competitive programming community, solving problems across multiple platforms:
+<br/>
 
-- **Codeforces** ⭐ — My primary platform. Regular contest participation and focused rating improvement.
-- **LeetCode** — Daily problem-solving for DSA mastery.
-- **CodeChef** — Long and short contests.
-- **StatCoder** — Exploring diverse problem sets.
+## 🏆 &nbsp;Achievements
 
-I work across the full spectrum of DSA: arrays, strings, trees, graphs, dynamic programming, segment trees, and beyond. My goal is to write clean, optimized solutions that scale with complexity.
+<div align="center">
 
----
+| Metric | Value |
+|:---|:---|
+| **Problems Solved** | `500+` across platforms |
+| **Primary Rating** | Codeforces Expert |
+| **Focus Areas** | Graphs, DP, Segment Trees, Advanced Algorithms |
+| **Contest Participation** | Regular rated contests on CF, LC, AtCoder |
+| **Career Target** | Product-Based Companies &bull; Backend Scalability |
 
-### 🔗 Coding Profiles
+</div>
 
-<p align="left">
-<a href="https://codeforces.com/profile/omkarghotne01" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="50"/>
-</a>
-<a href="https://leetcode.com/omkargho78" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50"/>
-</a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="50"/>
-</a>
-<a href="https://github.com/f0restron07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="50"/>
-</a>
-</p>
+<br/>
 
----
+## 💻 &nbsp;Tech Stack
 
-### 🛠️ Tech Stack
+<div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 
-**Backend**
+**Backend & Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
 
-**Databases**
+**Tools & Infrastructure**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=0d1117)
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-**Tools**
+## 📊 &nbsp;GitHub Analytics
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=F0restron&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&include_all_commits=true&count_private=true" width="49%" />
+
+</div>
+
+<br/>
+
+## 🧠 &nbsp;Problem Solving Focus
+
+<div align="center">
+
+```
+ Graphs & BFS/DFS     ████████████████████░░   90%
+ Dynamic Programming   ███████████████████░░░   85%
+ Segment Trees         ██████████████████░░░░   80%
+ Binary Search / Opt   ████████████████████░░   90%
+ Number Theory         ███████████████░░░░░░░   70%
+ System Design         ██████████████░░░░░░░░   65%
+ Clean Architecture    ████████████████████░░   90%
+```
+
+</div>
+
+<br/>
+
+## 🛠 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/F0restron/GuardianAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F0restron&repo=GuardianAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="49%" />
+</a>
+<a href="https://github.com/F0restron/DSA-Solutions">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=F0restron&repo=DSA-Solutions&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="49%" />
+</a>
+
+</div>
+
+<br/>
+
+### ⚡ GuardianAI
+
+> AI-powered healthcare emergency detection system built with **Electron**, **React**, and **Gemini API**. Real-time health monitoring with intelligent alert systems designed to detect critical situations and notify emergency contacts.
+
+`Electron` `React` `Gemini API` `Real-Time Processing` `Healthcare`
+
+### ⚡ Algorithmic Solutions Repository
+
+> **500+** categorized DSA solutions in Java covering Graphs, DP, Segment Trees, Binary Search, and more. Clean, optimized implementations with detailed complexity analysis — built as a reference library for competitive programmers.
+
+`Java` `Data Structures` `Algorithms` `Competitive Programming`
+
+<br/>
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F0restron&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%" />
+
+</div>
+
+<br/>
+
+## 📬 &nbsp;Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/omkarghotne)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/F0restron)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:omkarghotne@gmail.com)
+&nbsp;&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/profile/F0restron)
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 Projects
+<div align="center">
 
-#### 🔹 GuardianAI - Healthcare Emergency Detection System
-AI-powered healthcare safety system for independent living. Features real-time voice interaction using Web Speech API, emergency detection with Google Gemini API integration, and automated emergency response. Built with Electron and React.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
-**Tech:** Electron, React, Google Gemini API, Web Speech API
+<sub>Built with focus, powered by caffeine and competitive programming.</sub>
 
-#### 🔹 Algorithmic Solutions Repository
-Organized collection of 500+ optimized solutions from Codeforces, LeetCode, and CodeChef. Each solution includes time/space complexity analysis, categorized by topic (graphs, DP, greedy, segment trees). Focus on clean, readable code with monotonic stack optimizations and advanced techniques.
-
-**Tech:** Java, Data Structures & Algorithms
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f0restron07&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0restron07&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0restron07&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-### 🎯 Currently Focusing On
-
-- 🏅 Improving **Codeforces rating** — targeting Expert
-- 📚 Mastering advanced **DSA topics** (segment trees, graph algorithms, DP optimization)
-- 🔧 Building **scalable backend systems** with Spring Boot
-- 💼 Preparing for **product-based company interviews**
-- 🧠 Daily **LeetCode Medium/Hard** problem-solving
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-ghotne)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f0restron07)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/omkarghotne01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkargho78)
-
-📧 **Email:** omkarghotne100@gmail.com
-
----
-
-<p align="center">
-  <i>"Consistency beats motivation. Solve problems. Build systems. Stay disciplined."</i>
-</p>
+</div>
