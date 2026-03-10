@@ -103,7 +103,6 @@ public class Achievements {
         "Graphs", "Dynamic Programming",
         "Segment Trees", "Advanced Algorithms"
     };
-    static final String CAREER_TARGET       = "Product-Based Companies";
     static final boolean DAILY_CP           = true;     // non-negotiable
 }
 ```
