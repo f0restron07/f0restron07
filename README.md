@@ -143,9 +143,9 @@ Watch searching and sorting algorithms run step by step.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
