@@ -1,208 +1,154 @@
-<!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
-
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omkar%20Ghotne&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20engineer%20·%20Java%20·%20Distributed%20systems&descAlignY=60&descSize=18&descColor=A9FEF7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:bb9af7&height=210&section=header&text=Omkar%20Ghotne&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer%20%E2%80%A2%20Bengaluru&descAlignY=58&descSize=18" width="100%" alt="Omkar Ghotne" />
 
-<a href="https://codeforces.com/profile/F0restron">
-  <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<a href="https://github.com/f0restron07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Java+%2B+Spring+Boot+backend+developer;Building+a+BookMyShow-style+booking+backend;Merged+PR+in+JabRef+%E2%80%94+open+source+contributor;Sharpening+DP+%2B+graphs+on+Codeforces;1000%2B+LeetCode+problems+solved" alt="Typing intro" />
 </a>
-<a href="https://leetcode.com/F0restron">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/F0restron">
-  <img src="https://img.shields.io/badge/CodeChef-5★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://atcoder.jp/users/F0restron">
-  <img src="https://img.shields.io/badge/AtCoder-1729-222222?style=for-the-badge&logo=atcoder&logoColor=white" />
-</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/omkarghotne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:omkarghotne100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/omkargho78/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/codebuzz0001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<img src="https://komarev.com/ghpvc/?username=f0restron07&style=for-the-badge&color=bb9af7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br />
+<br/>
 
-<!-- ─────────────────────────────  ABOUT  ─────────────────────────────── -->
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+## 👋 About me
 
-### About
+```java
+public class Omkar {
+    String   role       = "Backend Developer";
+    String   basedIn    = "Bengaluru, India";
+    String[] stack      = { "Java", "Spring Boot", "PostgreSQL", "Docker" };
+    String[] learning   = { "Redis", "Kafka", "CI/CD", "DevOps" };
+    String   building   = "A production-style movie ticket booking backend";
+    String   openSource = "Merged PR in JabRef · exploring Jenkins core";
+    String   dailyGrind = "DP + graphs, one problem a day";
+}
+```
 
-I build backend systems in Java and spend an unreasonable amount of time on competitive programming. Currently deep in distributed systems — implementing consensus algorithms from the paper up, contributing to active open-source projects, and solving a problem a day because habits compound.
+<!-- ═══════════════════════════ CURRENTLY BUILDING ═══════════════════════════ -->
+## 🚧 Currently building
 
-<br />
+### 🎬 [ticket-booking-backend](https://github.com/f0restron07/ticket-booking-backend)
+A BookMyShow-style booking backend, built the way a real one would be: schema-first, containerised, and designed to survive two people clicking the same seat at the same time.
 
-<!-- ──────────────────────────  CURRENTLY BUILDING  ────────────────────── -->
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/f0restron07/ticket-booking-backend?style=flat-square&color=bb9af7&label=last%20commit" />
+</p>
 
-### Currently building
+**Roadmap**
+- [x] PostgreSQL in Docker + Flyway migrations
+- [x] Catalog entities — Movie, Theatre, Screen
+- [ ] Seat & Show entities, Movie CRUD API
+- [ ] JWT authentication
+- [ ] Redis seat locking & booking flow
+- [ ] Payments + Kafka events
+- [ ] CI pipeline
+
+<!-- ═══════════════════════════════ OPEN SOURCE ═══════════════════════════════ -->
+## 🌍 Open source
+
+| Project | Contribution | Status |
+|:--|:--|:--|
+| [**JabRef**](https://github.com/JabRef/jabref) — reference manager used by researchers worldwide | [Add group pseudonymization support (#15258)](https://github.com/JabRef/jabref/pull/15258) | <img src="https://img.shields.io/github/pulls/detail/state/JabRef/jabref/15258?style=flat-square&label=PR" /> |
+| [**Jenkins**](https://github.com/jenkinsci/jenkins) — the open-source automation server | Exploring the core codebase | 🔍 in progress |
+
+<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
+## 🛠️ Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### &nbsp;⚡&nbsp; [RaftDB](https://github.com/F0restron07/RaftDB)
+#### ⚡ [cf-solutions](https://github.com/f0restron07/cf-solutions)
+Paste a Codeforces link → it fetches the problem name and rating from the API, creates the Java file in a rating-wise folder, opens it in IntelliJ, and auto-commits to GitHub on every save.
 
-A distributed key-value store implementing the **Raft consensus algorithm** from scratch in Java. Leader election, log replication, and recovery across node failures — no framework shortcuts, paper up.
-
-<kbd>Java</kbd> &nbsp; <kbd>Distributed Systems</kbd> &nbsp; <kbd>Raft</kbd>
+`Python` `Java` `Codeforces API`
 
 </td>
 <td width="50%" valign="top">
 
-#### &nbsp;📚&nbsp; [JabRef](https://github.com/JabRef/jabref) &nbsp;·&nbsp; Open Source
+#### 📬 [Email-auto-responder](https://github.com/f0restron07/Email-auto-responder)
+Watches a Gmail inbox and sends automatic replies to incoming mail using the Gmail API.
 
-Active contributor to the open-source reference manager used by researchers worldwide. Currently shipping group pseudonymization — [`PR #15258`](https://github.com/JabRef/jabref/pull/15258).
+`Node.js` `Gmail API` `OAuth`
 
-<kbd>Java</kbd> &nbsp; <kbd>JavaFX</kbd> &nbsp; <kbd>Open Source</kbd>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌳 [BST Explorer](https://github.com/f0restron07/BST-Explorer-An-Interactive-Visualization-Tool)
+An interactive tool for visualising binary search tree operations.
+
+`JavaScript` `DSA`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 [Searching & Sorting Visualizer](https://github.com/f0restron07/Searching-and-sorting-visualizer)
+Watch searching and sorting algorithms run step by step.
+
+`JavaScript` `Algorithms`
 
 </td>
 </tr>
 </table>
 
-<br />
-
-<!-- ──────────────────────────  OTHER PROJECTS  ────────────────────────── -->
-
-### Other projects
+<!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
+## 🧰 Tech stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### &nbsp;🚨&nbsp; [GuardianAI](https://github.com/F0restron07/GuardianAI)
-
-Real-time health-signal monitoring prototype with emergency-contact alerting. Desktop-first, cross-platform, Gemini-powered.
-
-<kbd>Electron</kbd> &nbsp; <kbd>React</kbd> &nbsp; <kbd>Gemini API</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-#### &nbsp;🧠&nbsp; [DSA Solutions](https://github.com/F0restron07/DSA-Solutions)
-
-**500+** categorized problems in Java. Graphs, DP, segment trees, number theory — with complexity notes on the ones worth a second look.
-
-<kbd>Java</kbd> &nbsp; <kbd>Algorithms</kbd> &nbsp; <kbd>CP</kbd>
-
-</td>
-</tr>
+<tr><td><b>Daily drivers</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,idea&theme=dark" /></td></tr>
+<tr><td><b>Learning now</b></td><td><img src="https://skillicons.dev/icons?i=redis,kafka,githubactions,kubernetes&theme=dark" /></td></tr>
+<tr><td><b>Also built with</b></td><td><img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css&theme=dark" /></td></tr>
 </table>
 
-<br />
-
-<!-- ─────────────────────────────  STACK  ──────────────────────────────── -->
-
-### Stack
-
-<p>
-<strong>Primary</strong><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p>
-<strong>Also ship</strong><br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-<p>
-<strong>Tools</strong><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<br />
-
-<!-- ─────────────────────  COMPETITIVE PROGRAMMING  ───────────────────── -->
-
-### Competitive programming
-
-<table>
-<tr>
-<th align="left">Platform</th>
-<th align="left">Handle</th>
-<th align="left">Rating</th>
-<th align="left">Rank</th>
-</tr>
-<tr>
-<td><a href="https://codeforces.com/profile/F0restron">Codeforces</a></td>
-<td><code>F0restron</code></td>
-<td><strong>1795</strong></td>
-<td>Expert</td>
-</tr>
-<tr>
-<td><a href="https://leetcode.com/F0restron">LeetCode</a></td>
-<td><code>F0restron</code></td>
-<td><strong>1923</strong></td>
-<td>Knight</td>
-</tr>
-<tr>
-<td><a href="https://www.codechef.com/users/F0restron">CodeChef</a></td>
-<td><code>F0restron</code></td>
-<td><strong>5★</strong></td>
-<td>5 Star</td>
-</tr>
-<tr>
-<td><a href="https://atcoder.jp/users/F0restron">AtCoder</a></td>
-<td><code>F0restron</code></td>
-<td><strong>1729</strong></td>
-<td>Active</td>
-</tr>
-</table>
-
-Main focus: **graphs**, **dynamic programming**, **segment trees**, and **binary-search-the-answer** problems.
-
-<br />
-
-<!-- ──────────────────────────  GITHUB STATS  ─────────────────────────── -->
-
-### GitHub
+<!-- ═══════════════════════════ COMPETITIVE PROGRAMMING ═══════════════════════════ -->
+## 🏆 Competitive programming
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=F0restron07&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=F0restron07&show_icons=true&hide_border=true&count_private=true&hide=issues&theme=tokyonight&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&ring_color=A9FEF7" />
+<a href="https://leetcode.com/u/omkargho78/"><img src="https://leetcard.jacoblin.cool/omkargho78?theme=dark&font=Fira%20Code&ext=heatmap" height="210" alt="LeetCode stats" /></a>
+<a href="https://codeforces.com/profile/codebuzz0001"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebuzz0001&theme=tokyonight" height="210" alt="Codeforces stats" /></a>
 
-<br /><br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0restron07&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=8" />
+<sub>Both cards pull live data — they update on their own.</sub>
 
 </div>
 
-<br />
+<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+## 📈 GitHub activity
 
-<!-- ─────────────────────────────  ACTIVITY  ──────────────────────────── -->
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F0restron07&theme=react-dark&hide_border=true&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=ffffff&area=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f0restron07&theme=tokyonight" width="100%" alt="Profile details" />
 
-<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=f0restron07&theme=tokyonight" width="49%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f0restron07&theme=tokyonight" width="49%" alt="Most used languages" />
 
-<!-- ─────────────────────────────  CONTACT  ───────────────────────────── -->
+<img src="https://streak-stats.demolab.com?user=f0restron07&theme=tokyonight&hide_border=true&background=1A1B27&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7" width="70%" alt="GitHub streak" />
 
-### Connect
+<br/><br/>
 
-<p>
-<a href="https://linkedin.com/in/omkarghotne">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:omkarghotne@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://x.com/F0restron">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/F0restron">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/f0restron07/f0restron07/output/github-snake-dark.svg" />
+</picture>
 
-<br />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:3d59a1,100:1a1b27&height=110&section=footer" width="100%" />
