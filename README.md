@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/omkarghotne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:omkarghotne100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/omkargho78/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/omkarghotne100/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://codeforces.com/profile/codebuzz0001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <img src="https://komarev.com/ghpvc/?username=f0restron07&style=for-the-badge&color=bb9af7&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -121,7 +121,7 @@ Watch searching and sorting algorithms run step by step.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/omkargho78/"><img src="https://leetcard.jacoblin.cool/omkargho78?theme=dark&font=Fira%20Code&ext=heatmap" height="210" alt="LeetCode stats" /></a>
+<a href="https://leetcode.com/u/omkarghotne100/"><img src="https://leetcard.jacoblin.cool/omkargho78?theme=dark&font=Fira%20Code&ext=heatmap" height="210" alt="LeetCode stats" /></a>
 <a href="https://codeforces.com/profile/codebuzz0001"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebuzz0001&theme=tokyonight" height="210" alt="Codeforces stats" /></a>
 
 <sub>Both cards pull live data — they update on their own.</sub>
